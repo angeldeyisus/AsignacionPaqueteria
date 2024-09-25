@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/Express.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/Dron.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Fachadas/FactoryManejador.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Factory/SobreCreator.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Factory/BicicletaCreator.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Factory/AutoCreator.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/Envio.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/CajaPequeña.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Factory/CajaGrandeCreator.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Factory/CajaPequeñaCreator.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/Estandar.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Factory/CajaMedianaCreator.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Factory/MotocicletaCreator.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/Bicicleta.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/Auto.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/CajaGrande.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/Factory/DronCreator.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/CajaMediana.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/Motocicleta.java</file>
+            <file>file:/C:/Users/Link/Documents/NetBeansProjects/AsignacionPaqueteria_205750/src/dominio/Sobre.java</file>
+        </group>
+    </open-files>
+</project-private>
